@@ -10,7 +10,7 @@ create table login
 
 insert into login values
 (
-	'varshinida2002@gmail.com',
+	'varshinida@pesu.pes.edu',
     'testing'
 )
 
